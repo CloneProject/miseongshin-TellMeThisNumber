@@ -3,19 +3,13 @@
 	
 }
 
-
-@media ( max-width: 720px ) {
-  footer { 
-  	position: relative; 
-  }
-  body {
-  	width: auto; 
-  }
-}
-
 @media ( min-width: 1024px ) {
   footer { 
   	position: relative; 
   	width: auto; 
   }
+   body {
+  	width: auto; 
+  }
+
 }
