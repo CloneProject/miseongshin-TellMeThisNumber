@@ -7,11 +7,29 @@
   footer { 
   	position: relative; 
   	width: auto; 
-    color: red;
   }
+
    body {
   	width: auto; 
   }
 
+  .mobile-space {
+  	height: 200px;
+  }
 }
 
+.table {
+    display: table;
+}
+
+.table-row {
+    display: table-row;
+}
+
+.table-cell {
+    display: table-cell;
+}
+
+.table-cell.rowspan {
+	column-count: 2;
+}
