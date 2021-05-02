@@ -7,5 +7,5 @@
 		<li>A client-side JavaScript</li>
 		<li>A client-side API</li>
 
-	</ul>
+	
 </article>
